@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Configuration
-APP_NAME="myapp"
-BASE_DIR="/opt/$APP_NAME"
+BASE_DIR="/opt/gnss-tecmon"
 DIRS=(
     "bin"
     "lib"
