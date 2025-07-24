@@ -1,0 +1,1 @@
+### In development, scripts to log binary ubx and rinex data for use in VTEC measurements. Based on design provided to NJIT by Anton.Kashcheyev@unb.ca 
